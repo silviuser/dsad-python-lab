@@ -1,0 +1,14 @@
+# Fișiere de sistem PyCharm
+.idea/
+.vscode/
+
+# Fișiere compilate Python
+__pycache__/
+*.pyc
+
+# Mediul virtual (foarte important să nu îl urci!)
+venv/
+env/
+
+# Fișiere de date mari (opțional, dacă vrei să nu urci CSV-urile)
+# *.csv
